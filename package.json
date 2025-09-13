@@ -1,0 +1,13 @@
+{
+  "name": "customer-service-chatbot",
+  "version": "1.0.0",
+  "description": "AI Customer Service Chatbot",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8080"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
